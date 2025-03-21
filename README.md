@@ -1,2 +1,2 @@
 # Algorithms
-This repo has algorithms
+This repo contains algorithms
